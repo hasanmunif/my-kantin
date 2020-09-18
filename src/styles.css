@@ -1,0 +1,160 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar,
+.container-fluid,
+.fb {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.ka {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.f {
+  font-family: poppins, sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 10px;
+}
+.d3 {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+.s5 {
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+.round {
+  border-radius: 20px;
+  margin: 20px;
+}
+
+.bttn {
+  background: #fb6d3a;
+  font-size: 14px;
+}
+
+.oren {
+  color: #fb6d3a;
+}
+
+.col-9 {
+  height: 660px;
+  overflow: auto;
+}
+
+.bg-orange {
+  background: #fff5ed;
+}
+
+.nor {
+  white-space: nowrap;
+}
+
+.input-group,
+input[type="text"] {
+  width: 700px;
+}
+
+::placeholder {
+  font-size: 12px;
+}
+
+.cardi {
+  background: #6455c2;
+}
+
+#name {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 2px;
+}
+
+*:focus {
+  outline: none !important;
+  outline-offset: none !important;
+}
+
+#semua {
+  background: url("https://i.pinimg.com/originals/e5/29/9e/e5299e2fab063352152415b5307b470c.jpg");
+  background-size: cover;
+}
+
+.profil {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+#masakan {
+  background: url("https://belajar-react.smkmadinatulquran.sch.id/image/masakan1.jpg");
+  background-size: cover;
+}
+
+.a {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+#pizza {
+  background: url("https://belajar-react.smkmadinatulquran.sch.id/image/pizza1.jpg");
+  background-size: cover;
+}
+
+#jus {
+  background: url("https://belajar-react.smkmadinatulquran.sch.id/image/juz1.jpg");
+  background-size: cover;
+}
+
+.yey {
+  font-size: 20px;
+}
+
+#big {
+  height: 120px;
+  width: auto;
+  padding: -20px;
+  margin: 0;
+}
+
+.rounde {
+  border-radius: 13px;
+}
+
+.ha {
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+.p {
+  font-size: 23px;
+  margin-left: 2px;
+}
+
+.k {
+  font-size: 20px;
+}
+
+.jo {
+  font-size: 20px;
+  text-align: center;
+}
+
+.rght {
+  float: right;
+}
+
+.se {
+  font-size: 20px;
+}
